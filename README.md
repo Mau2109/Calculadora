@@ -3,4 +3,5 @@
 ¿Que hace?
 
 El siguiente programa tiene como funcion implementar una calculadora que realiza operaciones basicas (suma,resta,multiplicacion y division).
-KIUBOOOO!!!
+Su implementacion esta basada en base al lenguaje HTML para la estructura de la pagina, CSS para los estilos de este y JavaScript para la parte del manejo de datos y algoritmos.
+
